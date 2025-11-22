@@ -14,7 +14,7 @@
 
 ```javascript
 const saifAli = {
-    role: "Full-Stack Developer & ML Engineer",
+    role: "Data Scientist & ML Engineer",
     passion: "Building Intelligent Apps That Matter",
     currentFocus: "AI + Mobile + Data Engineering",
     bigDream: "Create the world's smartest AI travel companion 🌍✈️",
@@ -95,7 +95,7 @@ const saifAli = {
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/i_saifaly)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifaliglt@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ali-123abc)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017fb20704037092d4)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
